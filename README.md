@@ -1,4 +1,4 @@
 japf
 ====
 
-Just another php framework
+Just another php framework for my needs based on MVC pattern
